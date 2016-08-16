@@ -1,4 +1,4 @@
-# [Thinking in React: Components][published url]
+# [Thinking in React: Functional Components][published url]
 ## Instructor: [Jeremy McPeak][instructor url]
 
 
@@ -11,9 +11,9 @@ In this Coffee Break Course, Envato Tuts+ instructor Jeremy McPeak will show you
 
 ------
 
-These are source files for the Envato Tuts+ course: [Thinking in React: Components][published url]
+These are source files for the Envato Tuts+ course: [Thinking in React: Functional Components][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/thinking-in-react-components
+[published url]: https://code.tutsplus.com/courses/thinking-in-react-functional-components
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
